@@ -10,11 +10,19 @@ This is my journal of the design and building process of **USB Hub**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/451).
 
 
-## 10/12/2025 - Created the schematic  
+## 10/12/2025 1 PM - Created the schematic  
 
 Today I decided to learn how to use EasyEDA to create the schematic. I thought it would be really hard, but after following a short YouTube video to learn how to use it, I understood it pretty well. I was kinda confused about nets and capacitors, but I figured it out after a few more tutorials.
 Of course, I had problems. Halfway through making the schematic, my computer randomly shut down and I didn't save, so I had to start over, which sucked.
 Eventually I did manage to make a working schematic (i think):
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg1MywicHVyIjoiYmxvYl9pZCJ9fQ==--b39d750eada835ab91be1b55123c28c189de9e2a/image.png)
+  
+
+## 10/12/2025 6 PM - Routed most of the PCB  
+
+I spent the day routing most of the PCB for my USB Hub. This was a lot harder than the schematic, since the traces couldn't overlap, and I had to learn how to use vias and grounds. With traces that can't overlap and vias and grounds to figure out, I had to learn as I went. While working, I was also busy figuring out the controls, but I feel like I've gotten a lot better.
+Unfortunately, I also learned that USB's have a great deal of timing involved, so I had to adjust the trace length to perfectly match each other, which was a lot of hard work.
+I'm pretty happy with where I got today, and I'll probably polish it up later.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkwMywicHVyIjoiYmxvYl9pZCJ9fQ==--2115beb0cada3249e4186ef6f30b6cb92de52bea/image.png)
   
 
