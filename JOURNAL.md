@@ -33,3 +33,17 @@ I made some slight changes to the distances of the USB signals, and I also added
 ![Screenshot 2025-10-12 210446.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkzMywicHVyIjoiYmxvYl9pZCJ9fQ==--80347edb6919184fef6f8c4e2d44e06ca39576dc/Screenshot%202025-10-12%20210446.png)
   
 
+## 10/13/2025 - Super small adjustments  
+
+I made a few super small adjustments to the PCB - you probably wouldn't notice.
+1. I adjusted the trace length from the microcontroller to USB0 (the main usb), so that the signals would be synced up (I forgot about that last time).
+2. Changed the placement of a few small parts.
+3. A few more wiring simplifications.
+
+New PCB
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--e0c6dc681f4520e62fd458b505f8bce2bef34c26/image.png)
+3D!
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--d495be19605945c0dd6853b8731d87aaa73a55b5/image.png)
+
+  
+
