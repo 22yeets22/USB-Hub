@@ -33,7 +33,7 @@ I made some slight changes to the distances of the USB signals, and I also added
 ![Screenshot 2025-10-12 210446.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkzMywicHVyIjoiYmxvYl9pZCJ9fQ==--80347edb6919184fef6f8c4e2d44e06ca39576dc/Screenshot%202025-10-12%20210446.png)
   
 
-## 10/13/2025 - Super small adjustments  
+## 10/13/2025 - Small routing adjustments  
 
 I made a few super small adjustments to the PCB - you probably wouldn't notice.
 1. I adjusted the trace length from the microcontroller to USB0 (the main usb), so that the signals would be synced up (I forgot about that last time).
