@@ -47,3 +47,13 @@ New PCB
 
   
 
+## 10/14/2025 - Added Ground Pours + Stitched Vias  
+
+Today I was going to ship my project, but before I did, I shared it in the blueprint channel to see if anyone had suggestions. I was told to use ground pours and stitched vias. I had never worked with them before, so this was all new.
+After a bit more research, I learned that a ground pour is a large area of copper that is all connected to ground.
+I tweaked a lot of the settings, like the islands and the isolation from other traces. I also learned that spokes connect pads to ground to make soldering easier.
+Anyway, here’s my new PCB:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--63124c986ad3980bdf9de41192ee2eb776a8e3dc/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--09fcca15c8cd016600aaf716b6113e209cba63a5/image.png)
+  
+
