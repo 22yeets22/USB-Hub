@@ -59,3 +59,10 @@ Anyways, here's my new PCB and 3D:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--aeead0d1bd87a88dcdd706bd64834a2c7d00b76d/image.png)
   
 
+## 10/15/2025 - Last touches  
+
+I switched LED's because the one I was using was unavailable (I think). I also added another no-copper region. I made sure all my parts were right, and that they were available and cheap.
+![Screenshot 2025-10-15 175431.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--6d173fd1e55a4125b8b13cc857fdb42456a5d371/Screenshot%202025-10-15%20175431.png)
+
+I then struggled to figure out how to order it, but I managed to get the config right!  
+
