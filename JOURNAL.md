@@ -12,7 +12,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 ## 10/12/2025 1 PM - Created the schematic  
 
-Today I decided to learn how to use EasyEDA to create the schematic. I thought it would be really hard, but after following a short YouTube video to learn how to use it, I understood it pretty well. Honestly all you have to do is to create connections to things that need to be connected. I was kinda confused about nets and capacitors, and I went down a rabbit hole of tutorials (which luckily didn't go too far)...
+Today I decided to learn how to use EasyEDA to create the schematic (following [this](https://jams.hackclub.com/batch/usb-hub) tutorial). I thought it would be really hard, but after following a short YouTube video to learn how to use EasyEDA, I understood it pretty well. Honestly all you have to do is to create connections to things that need to be connected. I was kinda confused about nets and capacitors, and I went down a rabbit hole of tutorials (which luckily didn't go too far)...
 I thought I was doing great, and I was almost done making the schematic. Then my computer randomly shut down and, of course, there was no auto save and I didn't save, so I had to start over, which sucked.
 Eventually I did manage to make a working schematic (I think):
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg1MywicHVyIjoiYmxvYl9pZCJ9fQ==--b39d750eada835ab91be1b55123c28c189de9e2a/image.png)
