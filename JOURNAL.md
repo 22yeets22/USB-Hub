@@ -30,6 +30,7 @@ I'm pretty happy with where I got today, and I'll probably polish it up later.
 
 **I completely finished routing the PCB!**
 I made some slight changes to the distances of the USB signals, and I also added the power LED on it. I also changed the traces near the top near the male USB to make it easier to solder, and changed up the labels + added a title.
+*foreshadowing* this isn't the last jounral entry
 ![Screenshot 2025-10-12 210446.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkzMywicHVyIjoiYmxvYl9pZCJ9fQ==--80347edb6919184fef6f8c4e2d44e06ca39576dc/Screenshot%202025-10-12%20210446.png)
   
 
