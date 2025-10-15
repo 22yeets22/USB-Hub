@@ -37,7 +37,7 @@ I made some slight changes to the distances of the USB signals, and I also added
 
 I made a few super small adjustments to the PCB - you probably wouldn't notice.
 1. I adjusted the trace length from the microcontroller to USB0 (the main usb), so that the signals would be synced up (I forgot about that last time).
-2. Changed the placement of a few small parts.
+2. Changed the placement of a few small parts like the LED, resistor, and capcitors.
 3. A few more wiring simplifications.
 
 New PCB
