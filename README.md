@@ -1,6 +1,7 @@
 # USB-Hub
 
 A **4-port USB 2.0 hub** designed with EasyEDA and the SL2.1A microcontroller. This project was created to learn PCB design while building something practical.
+![USB-Hub](USBHUB.png)
 
 ---
 
