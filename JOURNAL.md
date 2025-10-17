@@ -66,3 +66,9 @@ I switched LED's because the one I was using was unavailable (I think). I also a
 
 I then struggled to figure out how to order it, but I managed to get the config right!  
 
+## 10/17/2025 - Edge cut changes  
+
+Small fixes for the edge cuts after review. Nothing much to say here except I have to fill in the min characters so I guess I could talk about the fact I swicted the edge thickness from 0.8mm to 0.1mm, hopefully they won't annoy me now.
+I need an image so here (basically the same but thinner edge cuts):
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--b8a3abc0a8b2e082dcc92968ad1f7d76291bf876/image.png)  
+
